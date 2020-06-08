@@ -32,6 +32,15 @@ title: "bit-ranger"
 description: ""
 github:
   username: yinghao0819
+swiftype:
+  searchId: iXZyPokVfxFaBTvi64Y6
+gitment:
+    repo: blog
+    client_id: a6fb73b3e790e234bab8
+    client_secret: cc10aaff53a03d05ab2ee002dbf401dd7627c7a3
+
+url: "http://yinghao0819.github.io"
+imgrepo: "http://yinghao0819.io/blog/static/img"
 
 
 #url: "http://127.0.0.1:4000"
