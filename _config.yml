@@ -27,7 +27,7 @@ defaults:
 
 
 
-title: "bit-ranger"
+title: "张英豪的技术博客"
 #email: sincerebravefight@gmail.com
 description: ""
 github:
@@ -39,8 +39,8 @@ gitment:
     client_id: a6fb73b3e790e234bab8
     client_secret: cc10aaff53a03d05ab2ee002dbf401dd7627c7a3
 
-url: "http://yinghao0819.github.io/blog"
-imgrepo: "http://yinghao0819.io/blog/static/img"
+url: "https://yinghao0819.github.io/blog"
+imgrepo: "https://yinghao0819.gothub.io/blog/static/img"
 
 
 #url: "http://127.0.0.1:4000"
