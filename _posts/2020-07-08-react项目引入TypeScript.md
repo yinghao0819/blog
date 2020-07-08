@@ -14,3 +14,5 @@ npm install --save typescript @types/node @types/react @types/react-dom @types/j
 或者
 yarn add typescript @types/node @types/react @types/react-dom @types/jest
 ```
+注意：
+ts文件后缀名只对类型定义如果代码中含有dom元素jsx之类的需要改为tsx文件后缀名。
